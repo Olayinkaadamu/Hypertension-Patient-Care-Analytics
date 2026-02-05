@@ -24,9 +24,9 @@ The dataset used in this project is a simulated healthcare dataset designed for 
 Source: Simulated healthcare case study
 - Time period: January 2014 – December 2014
 Key fields include:
--	Patient ID
--	Patient Visit ID
--	Patient Visit date
+- Patient ID
+- Patient Visit ID
+- Patient Visit date
 - Gender
 - Age
 - Location
@@ -87,7 +87,8 @@ The following KPIs were developed to measure performance:
 -	Completed Visits: 1,015
 -	Follow-Up Required: 48%
 -	Average Treatment Cost: £26K
-## Dashboard Overview
+## Dashboard Overvie
+![](Overview.jpg)
 The Power BI dashboard provides insights into:
 - Patient visits by month
 - Treatment types by visit
