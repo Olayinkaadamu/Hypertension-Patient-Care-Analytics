@@ -87,7 +87,8 @@ The following KPIs were developed to measure performance:
 -	Completed Visits: 1,015
 -	Follow-Up Required: 48%
 -	Average Treatment Cost: £26K
-## Dashboard Overvie
+## Dashboard Overview
+![](Dashboard.jpg)
 ![](Dashboard-Overview.jpg)
 The Power BI dashboard provides insights into:
 - Patient visits by month
