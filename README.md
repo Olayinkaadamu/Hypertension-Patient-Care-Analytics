@@ -23,7 +23,7 @@ The dataset used in this project is a simulated healthcare dataset designed for 
 ## Dataset details:
 Source: Simulated healthcare case study
 - Time period: January 2014 – December 2014
-- Key fields include:
+Key fields include:
 -	Patient ID
 -	Patient Visit ID
 -	Patient Visit date
@@ -107,13 +107,13 @@ These visuals enable stakeholders to quickly identify trends, risks, and areas f
 - Insight 2: Moderate and severe cases account for the highest follow-up requirements, increasing operational workload.
 -	Insight 3: Certain locations (e.g.Ibadan and Lagos) recorded higher visit volumes, suggesting regional demand pressure.
 ## Recommendations
-- Strengthen early intervention strategies for moderate cases to reduce progression to severe hypertension.	Recommendation
+- Strengthen early intervention strategies for moderate cases to reduce progression to severe hypertension.	
 - Allocate more healthcare resources and staff to high-volume locations.
 - Improve follow-up management programs to reduce repeat visits and improve treatment outcomes.
 ## Conclusion
 This project delivered a data-driven view of hypertension patient care and treatment performance, enabling healthcare stakeholders to monitor patient outcomes, resource usage, and follow-up needs.
-The dashboard supports better decision-making around:
+The dashboard supports better decision making around:
 	- Treatment effectiveness
 	- Patient risk profiling
 	- Cost and follow-up management
-Future work could include integrating real time patient monitoring data, predictive risk modelling, and outcome forecasting to further enhance clinical decision-making.
+Future work could include integrating real time patient monitoring data, predictive risk modelling, and outcome forecasting to further enhance clinical decision making.
