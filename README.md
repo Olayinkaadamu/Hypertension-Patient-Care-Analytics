@@ -51,6 +51,7 @@ Several data preparation steps were performed to ensure accurate analysis:
 ## Data Modelling (Power BI)
 A star schema data model was designed to improve performance and simplify analysis.
 Model Structure
+![](Data-Model.jpg)
 ## Fact Visits
 -	Patient Visit ID
 -	Patient ID
